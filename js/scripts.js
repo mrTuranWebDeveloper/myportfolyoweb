@@ -122,4 +122,6 @@ document.getElementById("downloadLink").addEventListener("click", function(event
     // Bağlantı öğesini kaldır
     document.body.removeChild(link);
   });
+
+  
   
